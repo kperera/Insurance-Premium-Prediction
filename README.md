@@ -6,9 +6,9 @@ The purposes of this project to look into different features to observe their re
 
 The insurance.csv dataset contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and expenses) and 3 nominal features (sex, smoker and region) that were converted into factors with numerical value designated for each level.
 
-## Requirements
+## Objectives
 
-This project uses the following programming techniques:
+The learning objectives of this project include:
 
 * TBD
 
