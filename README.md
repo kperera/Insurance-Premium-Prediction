@@ -11,3 +11,7 @@ The insurance.csv dataset contains 1338 observations (rows) and 7 features (colu
 This project uses the following programming techniques:
 
 * TBD
+
+## Acknowledgements
+
+The dataset used in this project was found at https://www.kaggle.com/noordeen/insurance-premium-prediction.
